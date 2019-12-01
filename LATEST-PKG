@@ -1,0 +1,8 @@
+{
+  "arch": "arm64",
+  "date": "20191201",
+  "assets": [
+    { "build": "BiTGApps-arm64-9.0.0-v12_signed.zip", "md5sum": ["BiTGApps-arm64-9.0.0-v12_signed.md5"]},
+    { "build": "BiTGApps-arm64-10.0.0-v0.6_signed.zip", "md5sum": ["BiTGApps-arm64-10.0.0-v0.6_signed.md5"]}
+  ]
+}
